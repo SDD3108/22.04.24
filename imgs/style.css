@@ -1,0 +1,75 @@
+ * {
+    margin: 0;
+}
+@import url("fonts/roboto/stylesheet.css");
+
+.About-me {
+    width: 485px;
+    height: 278px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 120.25px;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+.slide-1 {
+    display: flex;
+    height: 506px;
+    margin: auto;
+    justify-content: center;
+    background-color:#F6F6F6;
+}
+.words {
+    width: 227px;
+    height: 119px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+.slide-2 {
+    width: 936px;
+    height: 581px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding-top: 91px;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+.icons {
+    width: 846px;
+    height: 90px;
+    display: flex;
+    margin-top: 84px;
+}
+.cartinka2 {
+    margin-left: 168px;
+}
+.slide-2-bottom {
+    width: 846px;
+    display: flex;
+    margin-top: 24px;
+    justify-content: space-between;
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-size: 14px;
+    color: #828282;
+    align-items: center;
+}
+.star {
+    width: 936px;
+    display: flex;
+}
+h2 {
+    font-size: 34px;
+}
+.words p {
+    font-size: 18px;
+}
+.About-me p {
+    font-size: 18px;
+}
+.text1 {
+    align-items: center;
+}
